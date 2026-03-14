@@ -41,6 +41,12 @@ CVO_Rietveld_Refinement
 │
 ├── figures/
 │   ├── *_refinement_step_CVOSc.png
+│   ├── Ca with O bonds.png
+│   ├── V with O bonds.png
+│   ├── atoms in unit cell.png
+│   ├── unit cell in perspective 1.png
+│   ├── unit cell in perspective 2.png
+│   ├── unit cell upper view.png
 │   └── zoom_peaks/
 │       └── zoom_peak_near_*.png
 │
