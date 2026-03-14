@@ -1,3 +1,21 @@
+<table align="center">
+<tr>
+<td align="center">
+
+<img src="figures/10_final_CVOSc.png" width="400"><br>
+Refined diffraction pattern
+
+</td>
+<td align="center">
+
+<img src="figures/unit cell in perspective 1.png" width="400"><br>
+Crystal structure with nearest bonds
+
+</td>
+</tr>
+</table>
+
+
 # Rietveld Refinement of a Calcium Vanadate (CVO) Diffraction Pattern
 
 This repository contains the data, scripts, and figures used for a Rietveld refinement project performed with the **FullProf Suite** as part of a Solid State Physics course.
