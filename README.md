@@ -88,10 +88,10 @@ The final agreement factors obtained were:
 
 | Parameter | Value |
 |-----------|-------|
-| Rp | 6.61 % |
-| Rwp | 8.73 % |
+| Rp | 6.60 % |
+| Rwp | 8.69 % |
 | Rexp | 3.22 % |
-| χ² | 7.32 |
+| χ² | 7.30 |
 
 The refined lattice parameters were:
 
