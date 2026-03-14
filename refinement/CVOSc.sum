@@ -1,0 +1,142 @@
+
+
+        **********************************************************
+        ** PROGRAM FullProf.2k (Version 8.20 - Feb2025-ILL JRC) **
+        **********************************************************
+                       M U L T I -- P A T T E R N                 
+            Rietveld, Profile Matching & Integrated Intensity     
+                 Refinement of X-ray and/or Neutron Data
+
+
+    Date: 14/03/2026  Time: 02:31:29.495                              
+
+ => PCR file code: CVOSc
+ => DAT file code: CVOSc.dat            -> Relative contribution: 1.0000                                                            
+ => Title: CVO-Sc-x=0
+
+ ==> CONDITIONS OF THIS RUN FOR PATTERN No.:  1
+
+ => Global Refinement of X-ray powder diffraction data                                                                              
+ => Global Refinement of X-ray powder diffraction data                                                                              
+    Bragg-Brentano(X-rays) or Debye-Scherrer geometry(Neutrons)
+ => The    5th default profile function was selected
+
+ => X-Y type of data: 2theta/TOF/E(Kev) Intens sigma for pattern:  1
+ => Wavelengths:  1.54056 1.54439
+ => Cos(Monochromator angle)=   0.9100
+ => Absorption correction (AC), muR-eff =   0.0000  0.0000
+ => Base of peaks: 2.0*HW*   35.00
+ ==> Angular range, step and number of points:
+     2Thmin:      15.123000  2Thmax:      99.998497  Step:       0.020486  No. of points:   4145
+ =>-------> Pattern#  1
+ => Crystal Structure Refinement for phase: 1
+ => The density (volumic mass) of phase 1 is:    4.626 g/cm3
+ => Scor: 3.1583
+
+ ==> RESULTS OF REFINEMENT:
+
+
+ => No. of fitted parameters:   30
+
+
+------------------------------------------------------------------------------
+ => Phase No.  1 CVO-Sc-x=0                              P b n m             
+------------------------------------------------------------------------------
+
+ =>  No. of reflections for pattern#:   1:   448/2
+
+
+ ==> ATOM PARAMETERS:
+
+  Name      x     sx       y     sy       z      sz      B   sB   occ. socc.  Mult
+ V1      0.11162(  12)  0.06722(  17)  0.25000(   0)  0.000(  0)  0.500(  0)    4
+ V2     -0.10419(  12) -0.41985(  16)  0.25000(   0)  0.000(  0)  0.500(  0)    4
+ Ca1     0.34533(  15)  0.24505(  24)  0.25000(   0)  0.000(  0)  0.500(  0)    4
+ O1     -0.16158(  47) -0.20900(  49)  0.25000(   0)  0.000(  0)  0.500(  0)    4
+ O2     -0.02430(  47)  0.38152(  46)  0.25000(   0)  0.000(  0)  0.500(  0)    4
+ O3      0.21587(  45)  0.48059(  60)  0.25000(   0)  0.000(  0)  0.500(  0)    4
+ O4     -0.42558(  44) -0.42016(  49)  0.25000(   0)  0.000(  0)  0.500(  0)    4
+
+ ==> PROFILE PARAMETERS FOR PATTERN#  1
+
+ => Cell parameters      :
+                             10.67541   0.00013
+                              9.20866   0.00012
+                              3.00858   0.00004
+                             90.00000   0.00000
+                             90.00000   0.00000
+                             90.00000   0.00000
+ 
+ => overall scale factor :  0.4085685E-02 0.8908706E-05
+ => Eta(p-v) or m(p-vii) :    0.85072   0.02997
+ => Overall tem. factor  :    0.00000   0.00000
+ => Halfwidth parameters :    0.01578   0.00252
+                              0.00630   0.00185
+                              0.00116   0.00035
+ => Preferred orientation:    0.00000   0.00000
+                              0.00000   0.00000
+ => Asymmetry parameters :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => X and y parameters   :    0.00420   0.00062
+                              0.00000   0.00000
+ => Strain parameters    :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => Size parameters (G,L):    0.00000   0.00000
+                              0.00000   0.00000
+
+ ==> GLOBAL PARAMETERS FOR PATTERN#  1
+
+
+ => Zero-point:    -0.0064    0.0004
+ => Background Polynomial Parameters ==>
+                               337.46      2.1822    
+                              -528.65      8.5253    
+                               1116.3      16.180    
+                              -1843.3      29.929    
+                               1451.8      46.362    
+                              -404.45      18.693    
+ 
+ => Cos( theta)-shift parameter :   0.0000  0.0000
+ => Sin(2theta)-shift parameter :   0.0000  0.0000
+
+ ==> RELIABILITY FACTORS WITH ALL NON-EXCLUDED POINTS FOR PATTERN:  1
+
+  => Cycle:  1 => MaxCycle:100
+ => N-P+C:  4115
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  6.58     Rwp:  8.68     Rexp:    3.22 Chi2:  7.27      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  10.6     Rwp:  11.9     Rexp:    4.43 Chi2:  7.27    
+ => Deviance:  0.307E+05     Dev*  :   7.462    
+ => DW-Stat.:    0.5664     DW-exp:     1.9181
+ => N-sigma of the GoF:      284.256
+
+ ==> RELIABILITY FACTORS FOR POINTS WITH BRAGG CONTRIBUTIONS FOR PATTERN:  1
+
+ => N-P+C:  4088
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  6.60     Rwp:  8.69     Rexp:    3.22 Chi2:  7.30      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  10.6     Rwp:  11.9     Rexp:    4.42 Chi2:  7.30    
+ => Deviance:  0.307E+05     Dev*  :   7.496    
+ => DW-Stat.:    0.5677     DW-exp:     1.9179
+ => N-sigma of the GoF:      284.740
+
+ => Global user-weigthed Chi2 (Bragg contrib.):   7.31    
+
+     -----------------------------------------------------
+     BRAGG R-Factors and weight fractions for Pattern #  1
+     -----------------------------------------------------
+
+ => Phase:  1     CVO-Sc-x=0
+ => Bragg R-factor:   4.45       Vol:  295.762( 0.006)  Fract(%):  100.00( 0.31)
+ => Rf-factor=  2.78             ATZ:         823.842   Brindley:  1.0000
+
+ 
+              CPU Time:     0.508 seconds
+                            0.008 minutes
+
+ => Run finished at:     Date: 14/03/2026  Time: 02:31:30.005                              
