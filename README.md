@@ -123,6 +123,8 @@ Included files:
 
 These files correspond to the final converged refinement.
 
+The `CVOSc1_with_bonds.fst` file corresponds to the structure with bonds between nearest neighbours used for the structural figures of the crystal.
+
 
 
 ### report/
